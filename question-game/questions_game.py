@@ -314,8 +314,8 @@ if choose_number == 2:
 if choose_number == 3:
   print("You chose Account questions")
   print("This part of the questions consists of one level")
-start = input("To get started, type start: ").lower()
-if start == "start":
+  start = input("To get started, type start: ").lower()
+  if start == "start":
     print("                                          (play page)")
     termcolor.cprint("""The answers to the questions will be in the form of choices, 
        and you have to know the correct answer 
