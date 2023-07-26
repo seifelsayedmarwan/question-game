@@ -1,0 +1,5 @@
+#Versions used in questions_game
+=================
+python==3.10.11 |
+termcolor==2.3.0 |
+=================
